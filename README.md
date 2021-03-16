@@ -5,7 +5,8 @@ D1: Construir, usando linguagem C, a escadaria do clássico jogo Mario Brothers.
 
 Regras: a escadaria, como na imagem disponibilizada, não pode ser maior do que 8 andares; se, como input, for dado um valor acima de 8 inteiros, o programa deve solicitar novamente a altura ao usuário; o mesmo acontece ser for digitado valor negativo.
 
-==================================================================================================================
+========================================================================================
+
 D2: Construir um Classificador de texto.
 
 Temos que concordar que nem todo texto é apropriado, em nível de dificuldade, para ser lido por todas as pessoas: obviamente, não se espera que um aluno do ensino fundamental seja capaz de compreender, textos sobre temas e assuntos de ensino superior; da mesma forma como não se dará a uma criança que está aprendendo a ler, um livro com periodos longos e pontuação com significados que ela ainda não esteja familiarizada.
