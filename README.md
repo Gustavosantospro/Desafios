@@ -10,7 +10,7 @@ Regras: a escadaria, como na imagem disponibilizada, não pode ser maior do que 
 D2: Construir um Classificador de texto.
 
 Temos que concordar que nem todo texto é apropriado, em nível de dificuldade, para ser lido por todas as pessoas: obviamente, não se espera que um aluno do ensino fundamental seja capaz de compreender, textos sobre temas e assuntos de ensino superior; da mesma forma como não se dará a uma criança que está aprendendo a ler, um livro com periodos longos e pontuação com significados que ela ainda não esteja familiarizada.
-Para tanto, é preciso uma ferramenta capaz de classificar, em níveis, se um texto é difícil ou fácil de ser lido, a depender, obviamente, do nosso proprósito.
+Para tanto, é preciso uma ferramenta capaz de classificar, em níveis, se um texto é difícil ou fácil de ser lido, a depender, obviamente, do nosso proprósito e capacidade.
  
  Para classificar um texto em níveis de leitura, é necessário considerar o número de periodos(!, ?, .), palavras, letras e pontuação("parenteses, virgulas, ponto e virgula, dois pontos e etc), tudo que pode influenciar no nível de texto que se pretende ler. Nesse algorítmo, foi usada a fórmula do Coleman-Liau, "the Coleman-Liau".
 
