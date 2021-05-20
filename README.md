@@ -1,5 +1,5 @@
 # Desafios e atividades do curso CS50 Havard.
-Repositório onde postarei desafios propostos por mim mesmo ou por outras pessoas. 
+Repositório onde postarei desafios propostos pelo curso cs50 Harvad.
 
 D1: Construir, usando linguagem C, a escadaria do clássico jogo Mario Brothers.
 
